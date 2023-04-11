@@ -19,6 +19,6 @@
   "homepage": "https://github.com/JakubZ17/learning-git-2#readme",
   "devDependencies": {
     "browser-sync": "^2.29.1",
-    "html-validate": "^7.14.0"
+    "html-validate": "^7.15.1"
   }
 }
